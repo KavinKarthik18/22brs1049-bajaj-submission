@@ -1,8 +1,3 @@
-Here’s the **README.md** file content wrapped for direct use. You can copy-paste it into a file named `README.md` at the root of your repo.
-
----
-
-```markdown
 # Spring SQL Task – Automated Webhook Submission
 
 ## Overview
