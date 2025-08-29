@@ -138,35 +138,4 @@ java -jar target/*.jar
 
 ---
 
-## Submission Checklist
 
-* GitHub repository link:
-
-  ```
-  https://github.com/KavinKarthik18/22brs1049-bajaj-submission.git
-  ```
-
-* Include:
-
-  * All source code
-  * `target/` folder containing the generated JAR
-  * A downloadable link to the JAR (e.g., via GitHub releases or Google Drive)
-
----
-
-## Notes
-
-* Make sure to replace placeholders (`<Your Name>`, `<Your RegNo>`, etc.) in `WebhookClient.java`.
-* Use the Maven Wrapper (`mvnw`) script to build and run—paths with spaces require using `& ".\mvnw"` syntax on PowerShell.
-* The app automatically performs the full workflow—no manual HTTP calls required after setting up.
-
----
-
-## Good Luck!
-
-```
-
----
-
-Do you also want me to create and give you the **exact `pom.xml`** so your repo is fully ready-to-run without missing dependencies?
-```
